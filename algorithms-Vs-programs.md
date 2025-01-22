@@ -34,6 +34,19 @@ Analyzing how many steps a sorting algorithm will take or estimating the time co
 **Example**:  
 Running the code for a sorting algorithm and checking if it correctly sorts the list and how fast it executes.
 
+## Example: Food Analogy
+
+To better understand the relationship between algorithm and program, let's use the food analogy:
+
+- **Algorithm**: Imagine you're designing a recipe. The recipe is a step-by-step plan to create a dish. It tells you what ingredients to use, in what order to combine them, and the techniques to apply (chop, bake, stir, etc.). This recipe doesn’t depend on the kitchen tools you have or the stove's brand; it’s the plan, a universal strategy to make the dish.
+  
+- **Program**: Once you have the recipe, you actually go into the kitchen to cook. This is where you execute the plan. You use your specific tools (pots, pans, knives) and follow the instructions in the recipe to create the dish. The program is your kitchen actions that bring the recipe to life.
+
+- **Priori Analysis**: Before cooking, you might analyze the recipe. You think about how long it will take, whether the dish will turn out well, and if you have all the ingredients. This is your prediction of how successful the dish (algorithm) will be.
+  
+- **Posteriori Testing**: After cooking, you taste the dish and check if it turned out as expected. If it doesn’t, you might adjust the recipe next time. This is testing the program after execution to see if it meets the goal.
+
+
 ## Summary
 
 - **Algorithm**: The *step-by-step plan* to solve a problem. It doesn't depend on specific hardware or programming languages.
