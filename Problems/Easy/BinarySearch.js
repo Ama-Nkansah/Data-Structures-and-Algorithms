@@ -14,10 +14,11 @@
     let midpointValue = nums[midpointIndex]
     if(midpointValue === target){
       return midpointIndex;
+
     }else if(midpointValue < target){
-      lowerbound = midpointValue +1
+      lowerbound = midpointIndex +1
     }else{
-    upperbound = midpointValue - 1
+    upperbound = midpointIndex - 1
   }
   }
   return -1;
